@@ -83,4 +83,23 @@
       </plugins>
     </pluginManagement>
   </build>
+	    <distributionManagement>
+
+        <repository>
+
+            <id>ec2-arti</id>
+
+            <url> https://mymavenrepo.com/repo/kIB1YtGEs0UlxaVAaioN/</url>
+
+        </repository>
+
+        <snapshotRepository>
+
+            <id>ec2-arti</id>
+
+            <url>https://mymavenrepo.com/repo/kIB1YtGEs0UlxaVAaioN/ </url>
+
+        </snapshotRepository>
+
+    </distributionManagement>
 </project>
