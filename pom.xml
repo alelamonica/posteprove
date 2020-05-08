@@ -8,6 +8,12 @@
   <artifactId>my-app</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <scm>
+		<url>https://github.com/alelamonica/posteprove</url>
+		<connection>scm:git:git://github.com/alelamonica/posteprove.git</connection>
+		<developerConnection>scm:git:git@github.com/alelamonica/posteprove.git</developerConnection>
+  </scm>
+  
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
